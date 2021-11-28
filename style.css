@@ -78,6 +78,7 @@ form {
 .btn.delete {
   opacity: 0.7;
   font-size: 1rem;
+  transition: color 200ms;
 }
 
 .btn.delete:hover {
