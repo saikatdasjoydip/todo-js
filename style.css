@@ -2,7 +2,7 @@
   --clr-primary: #710193;
   --clr-light: #f4f4f4;
   --clr-dark: #333;
-  --clr-warning: #ffffff;
+  --clr-warning: rgb(255, 255, 255);
 }
 
 *,
