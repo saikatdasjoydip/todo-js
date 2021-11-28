@@ -1,4 +1,4 @@
-# My Todo Project
+# My Todo
 # HTML
 # CSS
 # JavaScript
