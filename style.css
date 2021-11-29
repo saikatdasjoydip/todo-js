@@ -118,7 +118,7 @@ form {
 }
 
 .new:focus::-webkit-input-placeholder {
-  opacity: 0.15;
+  opacity: 1;
 }
 
 .new:focus:-ms-input-placeholder {
